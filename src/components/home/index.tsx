@@ -5,7 +5,7 @@ export function Home() {
     <div class='home'>
       <a href='https://preactjs.com' target='_blank'>
         <img
-          src='/src/assets/preact.svg'
+          src='/src/assets/images/preact.svg'
           alt='Preact logo'
           height='160'
           width='160'
